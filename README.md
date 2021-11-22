@@ -1,3 +1,3 @@
-# [HailanWang]'s Notes;
+# [Hailan Wang]'s Notes;
 ## Summary 
-This repository contains all of the notes taken by [HailanWang] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Hailan Wang](https://github.com/hailan6257) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
